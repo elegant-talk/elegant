@@ -26,3 +26,5 @@ Nothing extra needed. Topic is mostly theory with some demonstrations that will 
 ## Submissions
 
 - Node.js Interactive 2016
+- NodeConf Argentina 2016
+- Node Summit (July 2016)
