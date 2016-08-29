@@ -9,7 +9,7 @@ These days, code may be run anywhere, in all sorts of browsers, desktops, and de
 Editions solves this problem elegantly in a standardised way. Producers produce their packages in their ideal configurations, then publish the package with multiple editions for the consumers to consume at their digression. Consumers are made aware of this through automated README updates, can select the exact edition that meets their exact needs - or by default, have the best edition for their environment loaded automatically. All the complexity of modern JavaScript publishing is solved, for the consumer and publisher.
 
 
-### Benefits to the Ecosystem
+## Benefits to the Ecosystem
 
 If this gains popularity, it will greatly reduce the complexity and difficulty of consuming and producing compiled packages, which is becoming ever increasingly common thanks to accepted power of tools like Babel, TypeScript, JSX, and traditional tools like CoffeeScript.
 
