@@ -25,6 +25,6 @@ Nothing extra needed. Topic is mostly theory with some demonstrations that will 
 
 ## Submissions
 
-- [Node.js Interactive Europe 2016](http://events.linuxfoundation.org/events/node-interactive-europe) - [ACCEPTED!](https://eventmobi.com/nieu16/agenda/176233/928552)
+- [Node.js Interactive Europe 2016](http://events.linuxfoundation.org/events/node-interactive-europe) - [ACCEPTED! September 16 at 9:30am - 9:50am](https://eventmobi.com/nieu16/agenda/176233/928552)
 - NodeConf Argentina 2016 - declined
 - Node Summit 2016 - declined
