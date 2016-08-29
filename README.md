@@ -25,7 +25,7 @@ By publishing multiple editions, with optional autoloader and readme updater - t
 Nothing extra needed. Topic is mostly theory with some demonstrations that will be useful to first time node.js javascript developers through to more seasoned ones.
 
 
-### Submissions
+## Submissions
 
 - [Node.js Interactive Europe 2016](http://events.linuxfoundation.org/events/node-interactive-europe) - [ACCEPTED!](https://eventmobi.com/nieu16/agenda/176233/928552)
 - NodeConf Argentina 2016 - declined
