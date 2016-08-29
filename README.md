@@ -1,8 +1,6 @@
 # Elegantly Produce & Consume Compiled Packages
 
-## Proposal
-
-### Abstract
+## Abstract
 
 JavaScript production use to be as easy as publishing your source code, which worked across all environments, with a few minor tweaks. Consumption was as easy as downloading and requiring the package.
 
@@ -20,7 +18,7 @@ Currently most people are publishing their compiled code, that may not target al
 By publishing multiple editions, with optional autoloader and readme updater - the power stays with the producer and the consumer. We've implemented this over at https://www.npmjs.com/package/editions (see dependents) and it has worked terrifically well for our use cases. Editions range from Babel, JSX, Flow Type, and CoffeeScript.
 
 
-### Technical Requirements
+## Technical Requirements
 
 Nothing extra needed. Topic is mostly theory with some demonstrations that will be useful to first time node.js javascript developers through to more seasoned ones.
 
