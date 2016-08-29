@@ -18,7 +18,7 @@ Currently most people are publishing their compiled code, that may not target al
 By publishing multiple editions, with optional autoloader and readme updater - the power stays with the producer and the consumer. We've implemented this over at https://www.npmjs.com/package/editions (see dependents) and it has worked terrifically well for our use cases. Editions range from Babel, JSX, Flow Type, and CoffeeScript.
 
 
-## Technical Requires
+## Technical Requirements
 
 Nothing extra needed. Topic is mostly theory with some demonstrations that will be useful to first time node.js javascript developers through to more seasoned ones.
 
