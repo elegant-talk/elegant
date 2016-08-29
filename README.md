@@ -1,4 +1,4 @@
-# Elegantly produce and consume compiled packages (babel, coffee-script, etc)
+# Elegantly Produce & Consume Compiled Packages
 
 ## Abstract
 
