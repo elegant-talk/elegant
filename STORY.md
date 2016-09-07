@@ -2,10 +2,10 @@
 
 ### Library
 
-We wrote [CSON](https://github.com/bevry/cson) (CoffeeScript Object Notation). Some of its dependency tree:
+We wrote [CSON](https://www.npmjs.com/package/cson) (CoffeeScript Object Notation). Some of its dependency tree:
 
-* [extract-opts](https://github.com/bevry/extract-opts) (for extracting options and completion callback from arguments)
-  * [typechecker](https://github.com/bevry/typechecker) (for type checking)
+* [extract-opts](https://www.npmjs.com/package/extract-opts) (for extracting options and completion callback from arguments)
+  * [typechecker](https://www.npmjs.com/package/typechecker) (for type checking)
 
 As part of routine maintenance of our packages, we commenced migration of them from CoffeeScript to ESNext for performance, debugging and contribution improvements. [Reasoning.](https://discuss.bevry.me/t/move-from-coffeescript-to-es6/)
 
