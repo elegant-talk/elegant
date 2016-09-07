@@ -120,7 +120,7 @@ node_modules/cson/node_modules/extract-opts/node_modules/typechecker/es6/lib/typ
 
 Arising in [this error report](https://github.com/bevry/cson/issues/68 "cson: package.json node engine >=0.8 might be incorrect") in the [CSON package](https://www.npmjs.com/package/cson).
 
-The offending `for...of` loop existed in the [typechecker dependency](https://www.npmjs.com/package/typechecker), which in [v4.0.0](https://github.com/bevry/typechecker/commit/72321e8e2ce98bdfebddb05f347e1511b57293fc#diff-105fa7fd0d9a64ffb6c375deccf3d510L30) was converted to the ES5 `for;;` loop:
+The offending `for...of` loop existed in the [typechecker dependency](https://www.npmjs.com/package/typechecker), which was fixed in [v4.0.0](https://github.com/bevry/typechecker/commit/72321e8e2ce98bdfebddb05f347e1511b57293fc#diff-105fa7fd0d9a64ffb6c375deccf3d510L30) via converting the ES6 `for...of` loop into the ES5 `for;;` loop:
 
 ``` javascript
 for ( let type of types ) {
@@ -134,7 +134,7 @@ for ( let i = 0, n = types.length, type; i < n; ++i ) {
 }
 ```
 
-> However, what if you actually wanted to support symbols properly on ES6 environments? Well, you would need symbols, so you would run into the same issue, unless you didn't bother requiring ES6 code on ES5 environments, but that would involve pre-emptive detection.
+This solution was possible in this instance, as `types` was always going to be an array. However, what if you actually wanted to support symbols properly on ES6 environments? Well, you would need symbols, so you would run into the same issue, unless you didn't bother requiring ES6 code on ES5 environments, but that would involve pre-emptive detection.
 
 The edition autoloader [esnextguardian](https://www.npmjs.com/package/esnextguardian) implements pre-emptive detection by checking the v8 version if it exists, thus avoiding the problematic loading ES6 code on ES5 environments that caused the stderr message. It works via [this check](https://github.com/bevry/esnextguardian/blob/v1.2.1/lib/index.js#L28-L29):
 
