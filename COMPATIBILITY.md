@@ -111,7 +111,7 @@ $ node -e 'console.log(process.versions.v8);'
 
 #### Solution
 
-On Node 0.10, using a `try..catch` around the ES2015 edition, with a fallback to the ES5 edition ES5, was not enough, as V8 would forcefully output the following to stderr:
+On Node 0.10, using a `try..catch` around the ES2015 edition with a fallback to the ES5 edition ES5 was not enough, as V8 would forcefully output the following to stderr:
 
 ```
 node_modules/cson/node_modules/extract-opts/node_modules/typechecker/es6/lib/typechecker.js:29
