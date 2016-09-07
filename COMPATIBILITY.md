@@ -75,10 +75,11 @@ try {
 
 #### Compatibility
 
-Drops Internet Explorer, Edge and Node 0.10 compatibility:
+Drops Internet Explorer and Edge compatibility:
 
 > ![Screenshot of broken Internet Explorer compatibility](https://cloud.githubusercontent.com/assets/61148/18032614/8c13b884-6d3c-11e6-9bec-17d47c574c84.png) [Test script.](http://balupton.com/misc/babelforof.html)
 
+Also drops Node 0.10 compatibility:
 
 > ![Screenshot of broken Node 0.10 compatibility](https://cloud.githubusercontent.com/assets/61148/18032686/c2ea3f88-6d3f-11e6-8826-93ee0c2cc15f.png)
 
