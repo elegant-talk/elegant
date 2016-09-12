@@ -39,6 +39,7 @@
 * https://github.com/balupton/minimal-react
 * https://gitlab.com/balupton/keybase-assignment
 * https://gitlab.com/balupton/tesla-configurator
+  * [webpack to rollup](https://gitlab.com/balupton/tesla-configurator/commit/d07bfb3f627339a47246425bb0378578a4529fff)
 
 ### Webpack
 * [rollup-plugin-commonjs: babel-converted module with default comes out wrong](https://github.com/rollup/rollup-plugin-commonjs/issues/29#issuecomment-213552619)
