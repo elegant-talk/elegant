@@ -25,17 +25,14 @@ Nothing extra needed. Topic is mostly theory with some demonstrations that will 
 
 ## Links
 
-### Useful
+### Very useful to you
 
 - [Node.js Interactive Europe 2016 - Slides](https://speakerdeck.com/balupton/elegantly-produce-and-consume-compiled-packages-nie16)
 - [Example `foreach-elegant` project](https://github.com/elegant-talk/foreach-elegant/commits)
 
-### Perhaps useful
+### Doubtfully useful to you
 
 - [Supplementary notes I documented for this talk](https://github.com/elegant-talk/elegant/tree/master/notes)
-
-### Probably not useful
-
 - [Pieces of code that helped develop this talk](https://github.com/elegant-talk/elegant/tree/master/pieces)
 - [All the different versions of the slides](https://github.com/elegant-talk/elegant/tree/master/slides)
 
