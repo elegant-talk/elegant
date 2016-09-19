@@ -31,7 +31,7 @@ Nothing extra needed. Topic is mostly theory with some demonstrations that will 
 - [Example `foreach-elegant` project](https://github.com/elegant-talk/foreach-elegant/commits)
 - [The `projectz` meta builder project](https://github.com/bevry/projectz)
 - [The `editions` autoloader and standard documentation](https://github.com/bevry/editions/wiki)
-- [Bevry's base files](https://github.com/bevry/base)
+- [Bevry's base files for seting up new projects](https://github.com/bevry/base)
 
 ### Doubtfully useful to you
 
