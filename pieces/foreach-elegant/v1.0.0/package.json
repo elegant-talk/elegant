@@ -1,0 +1,24 @@
+{
+  "name": "foreach-elegant",
+  "version": "1.0.0",
+  "description": "An elegant foreach loop that handles objects and arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elegant-talk/foreach-elegant.git"
+  },
+  "keywords": [
+    "foreach",
+    "foreach-array",
+    "foreach-object"
+  ],
+  "author": "Benjamin Arthur Lupton <b@lupton.cc> (https://balupton.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elegant-talk/foreach-elegant/issues"
+  },
+  "homepage": "https://github.com/elegant-talk/foreach-elegant#readme"
+}
