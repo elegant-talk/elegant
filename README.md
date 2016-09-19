@@ -29,6 +29,9 @@ Nothing extra needed. Topic is mostly theory with some demonstrations that will 
 
 - [Node.js Interactive Europe 2016 - Slides](https://speakerdeck.com/balupton/elegantly-produce-and-consume-compiled-packages-nie16)
 - [Example `foreach-elegant` project](https://github.com/elegant-talk/foreach-elegant/commits)
+- [The `projectz` meta builder project](https://github.com/bevry/projectz)
+- [The `editions` autoloader and standard documentation](https://github.com/bevry/editions/wiki)
+- [Bevry's base files](https://github.com/bevry/base)
 
 ### Doubtfully useful to you
 
