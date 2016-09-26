@@ -29,8 +29,8 @@ Nothing extra needed. Topic is mostly theory with some demonstrations that will 
 
 - [Node.js Interactive Europe 2016](http://events.linuxfoundation.org/events/node-interactive-europe)
   - [Details](https://eventmobi.com/nieu16/agenda/176233/928552)
-  - **[Slides](https://speakerdeck.com/balupton/elegantly-produce-and-consume-compiled-packages-nie16)**
-  - **[Recording](https://youtu.be/IAB8_UlcNWI)**
+  - [Slides](https://speakerdeck.com/balupton/elegantly-produce-and-consume-compiled-packages-nie16)
+  - [Recording](https://youtu.be/IAB8_UlcNWI)
 
 ### Declined
 
