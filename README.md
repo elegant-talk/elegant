@@ -23,35 +23,36 @@ By publishing multiple editions, with optional autoloader and readme updater - t
 Nothing extra needed. Topic is mostly theory with some demonstrations that will be useful to first time node.js javascript developers through to more seasoned ones.
 
 
-## Links
-
-### Very useful to you
-
-- [Node.js Interactive Europe 2016 - Slides](https://speakerdeck.com/balupton/elegantly-produce-and-consume-compiled-packages-nie16)
-- [Example `foreach-elegant` project](https://github.com/elegant-talk/foreach-elegant/commits)
-- [The `projectz` meta builder project](https://github.com/bevry/projectz)
-- [The `editions` autoloader and standard documentation](https://github.com/bevry/editions/wiki)
-- [Bevry's base files for seting up new projects](https://github.com/bevry/base)
-
-### Doubtfully useful to you
-
-- [Supplementary notes I documented for this talk](https://github.com/elegant-talk/elegant/tree/master/notes)
-- [Pieces of code that helped develop this talk](https://github.com/elegant-talk/elegant/tree/master/pieces)
-- [All the different versions of the slides](https://github.com/elegant-talk/elegant/tree/master/slides)
-
-
 ## Submissions
 
 ### Presented
 
 - [Node.js Interactive Europe 2016](http://events.linuxfoundation.org/events/node-interactive-europe)
-  - [Talk Page](https://eventmobi.com/nieu16/agenda/176233/928552)
-  - [Slides](https://speakerdeck.com/balupton/elegantly-produce-and-consume-compiled-packages-nie16)
+  - [Details](https://eventmobi.com/nieu16/agenda/176233/928552)
+  - **[Slides](https://speakerdeck.com/balupton/elegantly-produce-and-consume-compiled-packages-nie16)**
+  - **[Recording](https://youtu.be/IAB8_UlcNWI)**
 
 ### Declined
 
 - [NodeConf Argentina 2016](https://2016.nodeconf.com.ar)
 - [Node Summit 2016](http://nodesummit.com)
+
+
+## Links
+
+### Useful to you
+
+- [Example `foreach-elegant` project](https://github.com/elegant-talk/foreach-elegant/commits)
+- [The `projectz` meta builder project](https://github.com/bevry/projectz)
+- [The `editions` autoloader and standard documentation](https://github.com/bevry/editions/wiki)
+- [Bevry's base files for seting up new projects](https://github.com/bevry/base)
+
+### Useful to me
+
+- [Supplementary notes I documented for this talk](https://github.com/elegant-talk/elegant/tree/master/notes)
+- [Pieces of code that helped develop this talk](https://github.com/elegant-talk/elegant/tree/master/pieces)
+- [All the different versions of the slides](https://github.com/elegant-talk/elegant/tree/master/slides)
+
 
 
 ## License
