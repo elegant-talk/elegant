@@ -31,6 +31,10 @@ Nothing extra needed. Topic is mostly theory with some demonstrations that will 
   - ☞ [View the Slides](https://speakerdeck.com/balupton/elegantly-produce-and-consume-compiled-packages-nie16) ☜
   - ☞ [Watch the Video Recording](https://youtu.be/IAB8_UlcNWI) ☜
 
+### Pending
+
+- [jsDay 2017](http://cfp.jsday.it/talk/314)
+
 ### Declined
 
 - [NodeConf Argentina 2016](https://2016.nodeconf.com.ar)
